@@ -22,7 +22,7 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
         assertTrue(
                 appContext.getPackageName().contains("com.simplecity.amp_pro") ||
-                        appContext.getPackageName().contains("another.music.player")
+                        appContext.getPackageName().contains("com.ashutosh.phi")
 
         );
     }

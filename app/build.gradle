@@ -160,7 +160,7 @@ android {
 
         free {
             dimension "all"
-            applicationId "another.music.player"
+            applicationId "com.ashutosh.phi"
         }
 
         amazonPaid {
@@ -170,7 +170,7 @@ android {
 
         amazonFree {
             dimension "all"
-            applicationId "another.music.player"
+            applicationId "com.ashutosh.phi"
         }
     }
 

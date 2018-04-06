@@ -6,7 +6,7 @@
     {
       "client_info": {
         "android_client_info": {
-          "package_name": "another.music.player"
+          "package_name": "com.ashutosh.phi"
         }
       },
       "api_key": [
@@ -42,7 +42,7 @@
     {
       "client_info": {
         "android_client_info": {
-          "package_name": "another.music.player.debug"
+          "package_name": "com.ashutosh.phi.debug"
         }
       },
       "api_key": [

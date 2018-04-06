@@ -132,7 +132,7 @@ object Dependencies {
         }
 
         const val haha = "com.squareup.haha:haha:${Versions.haha}"
-        const val leakCanaryDebug = "com.squareup.leakcanary:leakcanary-android:${Versions.leakCanary}"
+        const val leakCanaryDebug = "com.squareup.leakcanary:leakcanary-android-no-op:${Versions.leakCanary}"
         const val leakCanaryRel = "com.squareup.leakcanary:leakcanary-android-no-op:${Versions.leakCanary}"
         const val okio = "com.squareup.okio:okio:${Versions.okio}"
         const val okhttp = "com.squareup.okhttp3:okhttp:${Versions.okhttp}"
